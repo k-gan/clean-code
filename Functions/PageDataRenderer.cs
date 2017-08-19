@@ -9,7 +9,7 @@ namespace Functions
         private readonly PageData pageData;
         private readonly StringBuilder pageContent;
 
-        public HtmlTestIncluder(PageData pageData)
+        public PageDataRenderer(PageData pageData)
         {
             if (pageData == null) throw new ArgumentNullException(nameof(pageData));
 
