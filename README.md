@@ -1,2 +1,2 @@
-# clean-code
-Exercises from Clean Code
+# CleanCode
+Exercises from Uncle Bob Margin's Clean Code.
